@@ -14,7 +14,7 @@
   https://github.com/Hassan837/Personal-Portfolio
 
 ## Live Link
-   https://hassan837.github.io/Personal-Porfolio/
+  https://hassan837.github.io/Personal-Portfolio/
 
 
 
